@@ -1,3 +1,6 @@
+# 🖥️ AtliQ Hardwares Excel Reports and Essential Tools
+
+###  Data Analytics | Information Technology (IT) Domain | Microsoft Excel
 ## Sales Report :
 
 
@@ -75,3 +78,4 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.# Excel-Projects
+- [x]	This project also builds understanding of the **Information Technology (IT) business domain**, particularly how technology companies operate across computer hardware and its delivery, printing solutions, and enterprise technology products.
